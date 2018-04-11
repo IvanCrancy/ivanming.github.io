@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Base blog settings
 baseurl                      : "" # the subpath of your site,                         # e.g. /blog/
                               # set to '' in case of hosting on GitHub
@@ -113,6 +114,9 @@ compress_html:
   endings                 : all
   comments                : ["<!-- ", " -->"]
   blanklines              : true
-  profile                 : false
+  profile                 : true
   ignore:
   envs                    : [local]
+=======
+theme: jekyll-theme-architect
+>>>>>>> 7f3df8708bd63fd1bbc708abf742565397c929e5
