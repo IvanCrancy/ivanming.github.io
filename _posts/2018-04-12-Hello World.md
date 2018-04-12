@@ -4,7 +4,7 @@ title: Hello World
 date: 2018-04-12
 excerpt: "My first Blog and Hello World!"
 tags: [Mood]
-feature: /assets/img/post image/helloword_feature.jpg
+feature: https://ivancrancy.github.io/ivanming.github.io/assets/img/post_image/helloword_feature.jpg
 comments: false
 ---
 ![](https://ivancrancy.github.io/ivanming.github.io/assets/img/logo.png)   
