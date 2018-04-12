@@ -2,12 +2,12 @@
 layout: post
 title: Hello World
 date: 2018-04-12
-excerpt: "test"
+excerpt: "My first Blog and Hello World!"
 tags: [Mood]
-feature: https://ivancrancy.github.io/ivanming.github.io/assets/img/post image/helloword_feature.jpg
-comments: true
+feature: /assets/img/post image/helloword_feature.jpg
+comments: false
 ---
-![](https://ivancrancy.github.io/assets/Img/logo.png)   
+![](/assets/Img/logo.png)   
 <center>产品经理, 二流UI设计, 三流摄影师, 会做饭，偶尔撸点代码.</center>
 
 ## 关于我
