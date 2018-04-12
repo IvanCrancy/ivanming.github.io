@@ -1,6 +1,6 @@
 # Site
 title:              Ivan Ming
-bio:                'A Dull Place of Ivan'
+bio:                '产品经理，二流UI设计，三流摄影师，会做饭，偶尔撸点代码'
 description:        "产品经理，二流UI设计，三流摄影师，会做饭，偶尔撸点代码"
 reading_time:       true
 words_per_minute:   200
@@ -26,7 +26,7 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   taylantatli
+disqus_shortname:   IvanCrancy
 
 # Social
 # if you don't have any of social below, comment the line.

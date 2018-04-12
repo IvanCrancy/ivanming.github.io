@@ -1,4 +1,3 @@
----
 layout: post
 title:  "test post"
 date:   2018-04-12
@@ -7,8 +6,7 @@ project: false
 tag:
 - test 
 - ivan
-comments: true
----
+comments: false
 
 <center>产品经理, 二流UI设计, 三流摄影师, 会做饭，偶尔撸点代码.</center>
 
