@@ -7,7 +7,7 @@ tags: [Mood]
 feature: /assets/img/post image/helloword_feature.jpg
 comments: false
 ---
-![](/assets/Img/logo.png)   
+![](https://ivancrancy.github.io/ivanming.github.io/assets/img/logo.png)   
 <center>产品经理, 二流UI设计, 三流摄影师, 会做饭，偶尔撸点代码.</center>
 
 ## 关于我
