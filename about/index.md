@@ -2,13 +2,12 @@
 layout: page
 title: About Ivan
 tags: []
-date: 2018-04-12
+date: 2018-04-19
 comments: false
 ---
     
 <center>产品经理, 二流UI设计, 三流摄影师, 会做饭，偶尔撸点代码.</center>
 
-## 关于我
-* 占坑以后再写
+![](https://ivancrancy.github.io/ivanming.github.io/assets/img/about_0419/personaltags.jpg)
 
 
