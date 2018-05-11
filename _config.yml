@@ -3,10 +3,10 @@ title:              Ivan Ming
 bio:                '产品经理，二流UI设计，三流摄影师，会做饭，偶尔撸点代码'
 description:        "产品经理，二流UI设计，三流摄影师，会做饭，偶尔撸点代码"
 reading_time:       true
-words_per_minute:   200
+words_per_minute:   20
 logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'
-tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
+tiled_bg:           true   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             zh_CN
 url:                https://ivancrancy.github.io/ivanming.github.io/
 
@@ -16,7 +16,7 @@ markdown:           kramdown
 highlighter:        rouge
 kramdown:
   auto_ids:         true
-  footnote_nr:      1
+  footnote_nr:      0
   entity_output:    as_char
   toc_levels:       1..6
   enable_coderay:   false
