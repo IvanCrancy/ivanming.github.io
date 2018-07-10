@@ -8,7 +8,7 @@ feature: https://ivancrancy.github.io/ivanming.github.io/assets/img/post_image/f
 comments: false
 ---
 
-
+share~
 
 ![](https://ivancrancy.github.io/ivanming.github.io/assets/img/post_image/0522_foodie_App/Artboard.png)
 
