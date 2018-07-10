@@ -8,7 +8,7 @@ feature: https://ivancrancy.github.io/ivanming.github.io/assets/img/post_image/f
 comments: false
 ---
 
-### 无聊练一下手，如果需要sketch源文件的，可以联系我。
+
 
 ![](https://ivancrancy.github.io/ivanming.github.io/assets/img/post_image/0522_foodie_App/Artboard.png)
 
