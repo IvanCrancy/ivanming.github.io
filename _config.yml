@@ -5,7 +5,7 @@ description:        "产品经理，二流UI设计，三流摄影师，会做饭
 reading_time:       true
 words_per_minute:   10
 logo:               'assets/img/logo.png'
-background:         'assets/img/placeholder-big.jpg'
+background:         'http://note.youdao.com/noteshare?id=dc6ea8293f68ed8a96e04fd54290963d'
 tiled_bg:           true   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             zh_CN
 url:                https://ivancrancy.github.io/ivanming.github.io/
