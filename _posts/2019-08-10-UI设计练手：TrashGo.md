@@ -16,30 +16,42 @@ comments: false
 
 ### 全部大图
 
-![app首页，支持搜索和查看历史的分类记录](https://upload-images.jianshu.io/upload_images/7434288-db3bc0c9ff9171dd.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+app首页，支持搜索和查看历史的分类记录
 
+![](https://upload-images.jianshu.io/upload_images/7434288-db3bc0c9ff9171dd.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+- 查看历史的分类记录
 
 ![查看历史的分类记录](https://upload-images.jianshu.io/upload_images/7434288-d83e38eb97dad08c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-点击可以将历史记录滑出来
+- 点击可以将历史记录滑出来
+
 ![home_history.GIF](https://upload-images.jianshu.io/upload_images/7434288-f98631955f90236e.GIF?imageMogr2/auto-orient/strip)
 
+- 查看分类详情
 
 ![查看分类详情](https://upload-images.jianshu.io/upload_images/7434288-f1c87714ed902382.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
+- 动画效果
 ![home_category.GIF](https://upload-images.jianshu.io/upload_images/7434288-a3a7bf00d082f8a5.GIF?imageMogr2/auto-orient/strip)
 
 
 
 要分类垃圾可以拍照并自动识别
+
+- 点击按钮可以拍照识别
 ![点击按钮可以拍照识别](https://upload-images.jianshu.io/upload_images/7434288-80b1fbb4f87ef57f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+- 识别到结果后会自动显示垃圾类别
 
 ![识别到结果后会自动显示垃圾类别](https://upload-images.jianshu.io/upload_images/7434288-8a57f36125bd2345.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
+- 识别结果有误的话可以手动输入文字并识别
 ![识别结果有误的话可以手动输入文字并识别](https://upload-images.jianshu.io/upload_images/7434288-f9ea649b29d8adc4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-
+- 动画效果
 ![动画效果](https://upload-images.jianshu.io/upload_images/7434288-ede0aba393880939.GIF?imageMogr2/auto-orient/strip)
 
 
