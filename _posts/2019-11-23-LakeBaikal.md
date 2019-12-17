@@ -2,7 +2,7 @@
 layout: post
 title: 19-Lake Baikal-贝加尔湖
 date: 2019-11-20
-excerpt: "多图杀猫，注意流量"
+excerpt: "冒着零下20+度拍回来的照片～～多图杀猫，注意流量"
 tags: [Mood]
 feature: https://picbed-1252775241.cos.ap-guangzhou.myqcloud.com/AB9C5A13-A95A-442A-80B4-672885ADBD7E_1_105_c.jpeg
 comments: false
