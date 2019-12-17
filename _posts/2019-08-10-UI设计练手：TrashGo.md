@@ -39,7 +39,7 @@ app首页，支持搜索和查看历史的分类记录
 
 
 要分类垃圾可以拍照并自动识别
-
+	
 - 点击按钮可以拍照识别
 ![点击按钮可以拍照识别](https://upload-images.jianshu.io/upload_images/7434288-80b1fbb4f87ef57f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
